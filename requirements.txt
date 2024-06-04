@@ -3,3 +3,4 @@ Pillow
 python-dotenv
 google-generativeai
 pdf2image
+FPDF
